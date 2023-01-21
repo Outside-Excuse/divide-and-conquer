@@ -1,0 +1,53 @@
+The program receives an integer number , followed by  real numbers (double, one in each line) from the standard input.
+
+Input Format
+
+With , an example of the input can be:
+
+4
+87.11
+92.39
+81.53
+51.71
+
+Constraints
+
+, followed of a list of  numbers in .
+
+Output Format
+
+A descending sorted sequence of numbers:
+
+92.39
+87.11
+81.53
+51.71
+
+Sample Input 0
+
+5
+79.5
+64.3
+31.8
+97.2
+100.9
+Sample Output 0
+
+100.9
+97.2
+79.5
+64.3
+31.8
+Sample Input 1
+
+4
+84.02
+69.85
+37.63
+44.81
+Sample Output 1
+
+84.02
+69.85
+44.81
+37.63
